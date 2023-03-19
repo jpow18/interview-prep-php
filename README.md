@@ -10,3 +10,5 @@ This repo holds code written to complete technical-interview-type coding challen
 [secondLargestIntArray](https://github.com/jpow18/interview-prep-php/blob/main/php/secondLargestIntArray.php)
 
 ## hard
+[longestCommonSubsequence](https://github.com/jpow18/interview-prep-php/blob/main/php/longestCommonSubsequence.php)
+[kadanesAlgorithm](https://github.com/jpow18/interview-prep-php/blob/main/php/kadanesAlgorithm.php)
