@@ -6,6 +6,8 @@ This repo holds code written to complete technical-interview-type coding challen
 [sumEven](https://github.com/jpow18/interview-prep-php/blob/main/php/sumEven.php)
 
 [sumFirstLastArray](https://github.com/jpow18/interview-prep-php/blob/main/php/sumFirstLastArray.php)
+
+[numWords](https://github.com/jpow18/interview-prep-php/blob/main/php/numWords.php)
 ## medium
 [secondLargestIntArray](https://github.com/jpow18/interview-prep-php/blob/main/php/secondLargestIntArray.php)
 
