@@ -15,6 +15,8 @@ This repo holds code written to complete technical-interview-type coding challen
 
 [findSumPairs](https://github.com/jpow18/interview-prep-php/blob/main/php/findSumWords.php)
 
+[areAnagrams](https://github.com/jpow18/interview-prep-php/blob/main/php/areAnagrams.php)
+
 ## hard
 [longestCommonSubsequence](https://github.com/jpow18/interview-prep-php/blob/main/php/longestCommonSubsequence.php)
 
