@@ -17,6 +17,8 @@ This repo holds code written to complete technical-interview-type coding challen
 
 [areAnagrams](https://github.com/jpow18/interview-prep-php/blob/main/php/areAnagrams.php)
 
+[arrayProduct](https://github.com/jpow18/interview-prep-php/blob/main/php/arrayProduct.php)
+
 ## hard
 [longestCommonSubsequence](https://github.com/jpow18/interview-prep-php/blob/main/php/longestCommonSubsequence.php)
 
