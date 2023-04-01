@@ -1,5 +1,15 @@
 <?php
 
+  /*
+
+    Returns an array that has the product of all other indexes in each index
+
+  @param array $arr an array of integers to multiply
+
+  @return array|null returns an array of integers or null if param array is empty
+
+  */
+
   function arrayProduct($arr): ?array {
     if (empty($arr)) {
       return null;
