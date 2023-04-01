@@ -19,6 +19,8 @@ This repo holds code written to complete technical-interview-type coding challen
 
 [arrayProduct](https://github.com/jpow18/interview-prep-php/blob/main/php/arrayProduct.php)
 
+[charCount](https://github.com/jpow18/interview-prep-php/blob/main/php/charCount.php)
+
 ## hard
 [longestCommonSubsequence](https://github.com/jpow18/interview-prep-php/blob/main/php/longestCommonSubsequence.php)
 
