@@ -27,3 +27,5 @@ This repo holds code written to complete technical-interview-type coding challen
 [kadanesAlgorithm](https://github.com/jpow18/interview-prep-php/blob/main/php/kadanesAlgorithm.php)
 
 [longestPalindrome](https://github.com/jpow18/interview-prep-php/blob/main/php/longestPalindrome.php)
+
+[mergeRanges](https://github.com/jpow18/interview-prep-php/blob/main/php/mergeRanges.php)
